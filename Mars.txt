@@ -1,5 +1,9 @@
 This is Mars, cold and rocky
 
+<<<<<<< HEAD
 Moons = problem for Wolfman
 Mummy will appreciate the lack of Humidity
 Gru's minions would mess things up
+=======
+Moons = problem for Wolfman
+>>>>>>> parent of 80a588e... Discuss concerns about Mars concerns about Mummy
